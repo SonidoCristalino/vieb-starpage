@@ -15,6 +15,7 @@ export default [
     color: "red",
     items: {
       ChatGPT: "https://chatgpt.com/?model=auto",
+      Campus: "https://campus.unaj.edu.ar/",
       // Canvas: "https://sit.instructure.com",
       // MyStevens: "https://login.stevens.edu/app/UserHome",
     },
