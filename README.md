@@ -16,7 +16,7 @@ You have only one option:
    - To run locally, you can simply clone the repository:
 
      ```bash
-     git clone https://github.com/peterrauscher/startpage.git
+     git clone https://github.com/SonidoCristalino/vieb-starpage
      ```
    Now just set your new tab/homepage as `/path/to/repo/index.html`
 
