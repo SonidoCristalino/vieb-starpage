@@ -39,6 +39,8 @@ export default [
         Whatsapp: "https://web.whatsapp.com/",
         Poringa: "http://www.poringa.net/mi/notificaciones",
         Wheater: "https://www.smn.gob.ar/",
+        Pinterest: "https://ar.pinterest.com/",
+        "Draw.io": "https://app.diagrams.net/",
         // Trakt: "https://trakt.tv/users/peterrauscher/lists",
         // Fmovies: "https://fmovies.to/home",
         // Zoro: "https://zoro.to",
