@@ -26,12 +26,15 @@ html {
   /* background-position: center; */
 }
 
-html,
-body {
+html {
   margin: 0;
   padding: 0;
   height: 100vh;
   overflow: hidden;
+}
+
+body {
+    background: url("./backgrounds/world.jpg") bottom !important;
 }
 
 .status-bar {
