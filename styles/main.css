@@ -22,8 +22,8 @@ html {
   text-align: center;
   color: var(--fg);
   background-color: var(--gray);
-  /* background-size: cover; */
-  /* background-position: center; */
+  background-size: cover;
+  background-position: center;
 }
 
 html {
