@@ -144,6 +144,6 @@ body {
   outline: none;
   background-color: transparent;
   font: inherit;
-  border: none;
+  border: none !important;
   color: inherit;
 }
