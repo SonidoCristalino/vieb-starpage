@@ -58,7 +58,6 @@ export default [
         "Dolar Hoy": "https://dolarhoy.com/",
         "Portfolio": "https://cuenta.portfoliopersonal.com/login",
         "ZonaProp": "https://www.zonaprop.com.ar/",
-        "ZonaProp Fav": "https://www.zonaprop.com.ar/panel/actividad/favoritos",
         "ArgenProp": "https://www.argenprop.com/",
     },
   },
