@@ -55,7 +55,7 @@ export default [
     category: "Business",
     color: "blue",
     items: {
-        "Reddit Merval": "https://www.reddit.com/r/merval/search/?sort=hot",
+        "Reddit Merval": "https://www.reddit.com/r/merval/search/?sort=new",
         "Dolar Hoy": "https://dolarhoy.com/",
         "Portfolio": "https://cuenta.portfoliopersonal.com/login",
         "ZonaProp": "https://www.zonaprop.com.ar/",
