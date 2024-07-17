@@ -32,6 +32,7 @@ export default [
         "LI Messenger": "https://www.linkedin.com/messaging",
         "LI Recommended": "https://www.linkedin.com/jobs/collections/recommended",
         "LI Search": "https://www.linkedin.com/jobs/search/?alertAction=viewjobs&f_AL=true&origin=JOB_SEARCH_PAGE_JOB_FILTER",
+        "LI Blink": "https://badoo.com/es-mx/people-nearby",
     },
   },
   {
