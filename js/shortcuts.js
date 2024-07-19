@@ -29,6 +29,7 @@ export default [
         Gmail: "https://mail.google.com/mail/u/0/#inbox",
         Calendar: "https://calendar.google.com/calendar/u/0/r/week",
         Drive: "https://drive.google.com/drive/u/0/home",
+        "Usos Horarios": "https://www.zeitverschiebung.net/es/",
         "LI Messenger": "https://www.linkedin.com/messaging",
         "LI Recommended": "https://www.linkedin.com/jobs/collections/recommended",
         "LI Search": "https://www.linkedin.com/jobs/search/?alertAction=viewjobs&f_AL=true&origin=JOB_SEARCH_PAGE_JOB_FILTER",
