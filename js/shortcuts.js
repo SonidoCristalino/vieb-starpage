@@ -49,6 +49,7 @@ export default [
         Odysee: "https://odysee.com/",
         "Biblioteca Secreta": "http://bibliotecasecreta.nl",
         "Yewtu.be": "https://yewtu.be",
+        Twitter: "https://x.com/home",
         // Trakt: "https://trakt.tv/users/peterrauscher/lists",
         // Fmovies: "https://fmovies.to/home",
         // Zoro: "https://zoro.to",
