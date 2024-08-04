@@ -4,7 +4,7 @@ export default [
     color: "cyan",
     items: {
         Trello: "https://trello.com/b/nuYOpstj/tareas-generales",
-        Github: "https://github.com",
+        Github: "https://github.com/SonidoCristalino",
         AWS: "https://emiliano-aws-v2.signin.aws.amazon.com/console",
         WarGames: "https://overthewire.org/wargames/",
       // "Dev.to": "https://dev.to",
