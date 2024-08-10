@@ -49,7 +49,8 @@ export default [
         Odysee: "https://odysee.com/",
         "Biblioteca Secreta": "http://bibliotecasecreta.nl",
         "Yewtu.be": "https://yewtu.be",
-        Twitter: "https://x.com/home",
+        "Piped Video": "https://piped.wireway.ch/trending",
+        // Twitter: "https://x.com/home",
         // Trakt: "https://trakt.tv/users/peterrauscher/lists",
         // Fmovies: "https://fmovies.to/home",
         // Zoro: "https://zoro.to",
@@ -66,6 +67,8 @@ export default [
         "Portfolio": "https://cuenta.portfoliopersonal.com/login",
         "ZonaProp": "https://www.zonaprop.com.ar/",
         "ArgenProp": "https://www.argenprop.com/",
+        "Calculadora Inflación": "https://calculadoradeinflacion.com/",
+        "Calculadora Porcentaje": "https://porcentaje.org/",
     },
   },
 ];
