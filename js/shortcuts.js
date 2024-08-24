@@ -42,7 +42,8 @@ export default [
     color: "purple",
     items: {
         Whatsapp: "https://web.whatsapp.com/",
-        Poringa: "http://www.poringa.net/mi/",
+        "P!": "http://www.poringa.net/mi/",
+        "P! Chat": "https://www.poringa.net/chat/",
         Wheater: "https://www.smn.gob.ar/",
         Pinterest: "https://ar.pinterest.com/",
         "Youtube Music": "https://music.youtube.com/",
