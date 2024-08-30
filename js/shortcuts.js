@@ -46,7 +46,6 @@ export default [
         "P! Chat": "https://www.poringa.net/chat/",
         Wheater: "https://www.smn.gob.ar/",
         Pinterest: "https://ar.pinterest.com/",
-        "Youtube Music": "https://music.youtube.com/",
         Odysee: "https://odysee.com/",
         "Biblioteca Secreta": "http://bibliotecasecreta.nl",
         "Yewtu.be": "https://yewtu.be",
