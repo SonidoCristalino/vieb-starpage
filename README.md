@@ -9,7 +9,7 @@ This project is based on [Start Page](https://github.com/peterrauscher/startpage
 
 ## Installation
 
-You have only one option:
+You have only one option to use this page with [Vieb](https://vieb.dev/download)
 
 1. ### Local File
 
@@ -18,12 +18,13 @@ You have only one option:
      ```bash
      git clone https://github.com/SonidoCristalino/vieb-starpage
      ```
-   Now just set your new tab/homepage as `/path/to/repo/index.html`
+2. **WARNING**: After download, you must change the dir name from `vieb-startpage` to simply `startpage`. 
+3. Now just set your `newtaburl` option in Vieb as `/path/startpage/index.html`. 
 
 ## Usage
 
-1. First thing you have to do is set your `/path/to/repo/index.html` in your `newtaburl` setting
-2. This could be done througth set command: `set newtaburl="/path/to/repo/index.html"`
+1. First thing you have to do is set your `/path/startpage/index.html` in your `newtaburl` setting. 
+2. This could be done througth set command: `set newtaburl="/path/startpage/index.html"`
 3. If you are satisfy with results, then save it with `mkviebrc`. 
 4. Others useful options could be found here: [Start Page](https://github.com/peterrauscher/startpage)
 
