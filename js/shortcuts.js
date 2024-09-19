@@ -7,6 +7,7 @@ export default [
         Github: "https://github.com/SonidoCristalino?tab=repositories",
         AWS: "https://emiliano-aws-v2.signin.aws.amazon.com/console",
         WarGames: "https://overthewire.org/wargames/",
+        "Greasy Fork": "https://greasyfork.org/es",
       // "Dev.to": "https://dev.to",
       // Firebase: "https://console.firebase.google.com/u/0",
     },
