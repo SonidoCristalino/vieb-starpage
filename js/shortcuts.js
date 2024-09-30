@@ -52,7 +52,7 @@ export default [
         "Biblioteca Secreta": "http://bibliotecasecreta.nl",
         "Yewtu.be": "https://yewtu.be",
         "Piped Video": "https://piped.wireway.ch/trending",
-        // Twitter: "https://x.com/home",
+        "Reconquista TV": "https://reconquistatv.blogspot.com/",
         // Trakt: "https://trakt.tv/users/peterrauscher/lists",
         // Fmovies: "https://fmovies.to/home",
         // Zoro: "https://zoro.to",
