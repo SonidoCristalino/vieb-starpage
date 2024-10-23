@@ -45,14 +45,13 @@ export default [
     items: {
         Whatsapp: "https://web.whatsapp.com/",
         "P!": "http://www.poringa.net/mi/",
-        "P! Chat": "https://www.poringa.net/chat/",
         Wheater: "https://www.smn.gob.ar/",
         Pinterest: "https://ar.pinterest.com/",
         Odysee: "https://odysee.com/",
         "Biblioteca Secreta": "http://bibliotecasecreta.nl",
-        "Yewtu.be": "https://yewtu.be",
         "Piped Video": "https://piped.wireway.ch/trending",
         "Reconquista TV": "https://reconquistatv.blogspot.com/",
+        "4Chan": "https://www.4chan.org/",
         // Trakt: "https://trakt.tv/users/peterrauscher/lists",
         // Fmovies: "https://fmovies.to/home",
         // Zoro: "https://zoro.to",
@@ -65,6 +64,7 @@ export default [
     color: "blue",
     items: {
         "Reddit Merval": "https://www.reddit.com/r/merval/search/?sort=new",
+        "Reddit DevsArg": "https://www.reddit.com/r/devsarg/search/?sort=new",
         "Dolar Hoy": "https://dolarhoy.com/",
         "Portfolio": "https://cuenta.portfoliopersonal.com/login",
         "ZonaProp": "https://www.zonaprop.com.ar/",
