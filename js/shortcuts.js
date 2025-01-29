@@ -49,6 +49,7 @@ export default [
         Wheater: "https://www.smn.gob.ar/",
         Pinterest: "https://ar.pinterest.com/",
         Odysee: "https://odysee.com/",
+        Chess: "https://www.chess.com/home",
         "Biblioteca Secreta": "http://bibliotecasecreta.nl",
         "Piped Video": "https://piped.wireway.ch/trending",
         "Reconquista TV": "https://reconquistatv.blogspot.com/",
