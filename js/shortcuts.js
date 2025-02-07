@@ -8,6 +8,7 @@ export default [
         AWS: "https://emiliano-aws-v2.signin.aws.amazon.com/console",
         WarGames: "https://overthewire.org/wargames/",
         "Greasy Fork": "https://greasyfork.org/en",
+        "ANSI Art": "http://www.patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=example",
       // "Dev.to": "https://dev.to",
       // Firebase: "https://console.firebase.google.com/u/0",
     },
