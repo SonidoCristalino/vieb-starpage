@@ -69,6 +69,7 @@ export default [
         "Reddit Merval": "https://www.reddit.com/r/merval/search/?sort=new",
         "Reddit DevsArg": "https://www.reddit.com/r/devsarg/search/?sort=new",
         "Dolar Hoy": "https://dolarhoy.com/",
+        "Impuestito": "https://www.impuestito.org/",
         "Portfolio": "https://cuenta.portfoliopersonal.com/login",
         "ZonaProp": "https://www.zonaprop.com.ar/",
         "ArgenProp": "https://www.argenprop.com/",
