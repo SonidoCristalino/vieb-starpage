@@ -17,7 +17,8 @@ export default [
     category: "University",
     color: "red",
     items: {
-        Pomodoro: "https://duckduckgo.com/?q=timer+20+minutes&ia=answer&ko=1&kae=d&kav=1",
+        "Pomodoro (10)": "https://duckduckgo.com/?q=timer+10+minutes&ia=answer&ko=1&kae=d&kav=1",
+        "Pomodoro (20)": "https://duckduckgo.com/?q=timer+20+minutes&ia=answer&ko=1&kae=d&kav=1",
         ChatGPT: "https://chatgpt.com/?model=auto",
         "ChatGPT Temporary": "https://chatgpt.com/?default=c&temporary-chat=true",
         Gemini: "https://gemini.google.com/app?hl=es-AR",
