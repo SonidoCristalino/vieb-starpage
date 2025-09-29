@@ -77,6 +77,7 @@ export default [
         "ArgenProp": "https://www.argenprop.com/",
         "Calculadora Inflación": "https://calculadoradeinflacion.com/",
         "Calculadora Porcentaje": "https://porcentaje.org/",
+        "Calculadora ARS-USD": "https://wise.com/mx/currency-converter/usd-to-ars-rate?amount=1000",
     },
   },
 ];
