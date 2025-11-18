@@ -84,6 +84,7 @@ export default [
     category: "Entrevistas",
     color: "orange",
     items: {
+        "RRHH": "file:///home/emiliano/Templates/Entrevistas/rrhh/output/index.html",
         "Técnica": "file:///home/emiliano/Templates/Entrevistas/tecnica/output/index.html"
     },
   },
