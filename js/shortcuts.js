@@ -6,7 +6,7 @@ export default [
         Trello: "https://trello.com/b/nuYOpstj/tareas-generales",
         Github: "https://github.com/SonidoCristalino?tab=repositories",
         AWS: "https://emiliano-aws-v2.signin.aws.amazon.com/console",
-        WarGames: "https://overthewire.org/wargames/",
+        // WarGames: "https://overthewire.org/wargames/",
         "Greasy Fork": "https://greasyfork.org/en",
         "ANSI Art": "http://www.patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=example",
       // "Dev.to": "https://dev.to",
@@ -78,6 +78,13 @@ export default [
         "Calculadora Inflación": "https://calculadoradeinflacion.com/",
         "Calculadora Porcentaje": "https://porcentaje.org/",
         "Calculadora ARS-USD": "https://wise.com/mx/currency-converter/usd-to-ars-rate?amount=1000",
+    },
+  },
+  {
+    category: "Entrevistas",
+    color: "orange",
+    items: {
+        "Técnica": "file:///home/emiliano/Templates/Entrevistas/tecnica/output/index.html"
     },
   },
 ];
