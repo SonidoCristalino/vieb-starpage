@@ -15,6 +15,7 @@
   --cyan: #7dcfff;
   --light-gray: #a9b1d6;
   --gray: #414868;
+  --orange: #f96d00
 }
 
 html {
@@ -137,6 +138,10 @@ body {
 
 .black {
   color: var(--black);
+}
+
+.orange {
+  color: var(--orange);
 }
 
 #input {
