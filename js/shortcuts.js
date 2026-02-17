@@ -69,7 +69,7 @@ export default [
     category: "Business",
     color: "blue",
     items: {
-        "Reddit Merval": "https://www.reddit.com/r/merval/search/?sort=new",
+        "Reddit": "https://www.reddit.com/",
         "Reddit DevsArg": "https://www.reddit.com/r/devsarg/search/?sort=new",
         "Dolar Hoy": "https://dolarhoy.com/",
         "Impuestito": "https://www.impuestito.org/",
