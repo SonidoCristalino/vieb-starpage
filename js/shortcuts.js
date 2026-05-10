@@ -49,9 +49,11 @@ export default [
     color: "purple",
     items: {
         Whatsapp: "https://web.whatsapp.com/",
+        Music: "https://music.youtube.com/",
         "P!": "http://www.poringa.net/mi/",
         Wheater: "https://www.smn.gob.ar/",
         Pinterest: "https://ar.pinterest.com/",
+        Twitter: "https://x.com/home",
         Odysee: "https://odysee.com/",
         Chess: "https://www.chess.com/home",
         "Biblioteca Secreta": "http://bibliotecasecreta.nl",
